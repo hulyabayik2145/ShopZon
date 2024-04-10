@@ -14,8 +14,6 @@ React Paginate: Büyük veri kümleri arasında gezinmek için sayfalandırma i�
 
 React-Slick & Slick-Carousel: Ürün galerilerini sergilemek için slider bileşenleri içerir.
 
-Redux: Redux mağazasının React bileşenleriyle bağlantısını sağlar.
-
 <h3>Ekran Gif</h3>
 
 ![](shopzon.gif)
